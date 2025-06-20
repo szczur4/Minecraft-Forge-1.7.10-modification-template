@@ -1,0 +1,1 @@
+gradlew packagePatchedMc -x decompressDecompiledSources
