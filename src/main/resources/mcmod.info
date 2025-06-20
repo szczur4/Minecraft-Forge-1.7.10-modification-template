@@ -1,0 +1,10 @@
+{
+	"modListVersion":2,
+	"modList":[{
+		"modid":"neededforbuildscript",
+		"name":"Needed For Buildscript",
+		"description":"Needed for buildscript to work",
+		"authorList":["szczur4"],
+		"useDependencyInformation":false
+	}]
+}
