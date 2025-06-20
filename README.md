@@ -1,8 +1,11 @@
-To setup your Forge run !SETUP.bat, modifiable source will be in build/rfg/minecraft-src
-To build run !BUILD.bat, your compiled Forge will be in build/rfg with name recompiled-minecraft-1.7.10.jar
-To run client run !RUN_CLIENT.bat
+### Setting up
+Run ```!SETUP.bat```, modifiable source code will be in build/rfg/minecraft-src
+### Building
+Run ```!BUILD.bat```, your compiled Forge will at build/rfg/recompiled-minecraft-1.7.10.jar
+### Running client
+Run ```!RUN_CLIENT.bat```
+>[!WARNING]
+>Running ```!SETUP.bat``` will revert everything you have written
 
-Running !SETUP.bat again will revert everything you have written
-Only use your IDE in minecraft-src folder
-
-Buildscript was stitched from Minecraft Forge and GTNH Example Mod buildscripts, and had unnecesary things removed
+>[!NOTE]
+>The buildscript was stitched from Minecraft Forge and GTNH Example Mod buildscripts, and had unnecesary things removed
