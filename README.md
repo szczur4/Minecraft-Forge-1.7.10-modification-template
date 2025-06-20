@@ -7,5 +7,8 @@ Run ```!RUN_CLIENT.bat```
 >[!WARNING]
 >Running ```!SETUP.bat``` will revert everything you have written
 
+>[!CAUTION]
+>Do not run anything from your IDE; Use the files above instead
+
 >[!NOTE]
 >The buildscript was stitched from Minecraft Forge and GTNH Example Mod buildscripts, and had unnecesary things removed
